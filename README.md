@@ -18,6 +18,18 @@ To complete the assignment, please do the following:
 # My Project (Anime-collection)
 Goal - I want contributors to help me list some favorite Japanese Anime.
 
-# List of Anime.
-1. Naruto
-2. One Piece
+# List of your favorite niconico-douga url (Youtube is OK)  
+please write url and title(expected)  
+
+- 【くまのプーさんのホームランダービー！】世界一23分58秒【RTA】, https://www.nicovideo.jp/watch/sm37971285  
+- 【RTA】ロックマンin3:53【2014-06-21】, https://www.nicovideo.jp/watch/sm23825129  
+- 中央大学で粉雪を歌うyoutuber, https://www.nicovideo.jp/watch/sm34225289  
+- ３・３・３３・３３３３, https://www.nicovideo.jp/watch/sm29629228
+- 中央大学で粉雪を歌うyoutuber, https://www.nicovideo.jp/watch/sm34225289
+- ハイポーション作ってみた, https://www.nicovideo.jp/watch/sm1890440
+- ハイポーション作ってみた。,  https://www.nicovideo.jp/watch/sm1890440
+- イチローのレーザービームで人類滅亡, https://www.nicovideo.jp/watch/sm811361
+- レッツゴー陰陽師,https://www.nicovideo.jp/watch/sm9  
+- Battlefield 2042 Official Reveal Trailer (ft. 2WEI), https://youtu.be/ASzOzrB-a9E  
+- 映画『マイ・インターン』英会話！https://www.youtube.com/watch?v=mPABdvvD9hA
+- ポケモンファイアレッド　「たたかう」を使わずにクリアに挑戦 https://www.nicovideo.jp/user/726734/mylist/9078401
